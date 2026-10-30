@@ -1,8 +1,6 @@
-# Ray 分布式计算：我的 Berkeley CS267 学习笔记
+# Ray 分布式计算： CS267 学习笔记
 
-> **课程来源**：Ion Stoica, *Ray: A Universal Framework for Distributed Computing*, 2025-03-04，共 83 页。  
-> **学习方式**：按 PPT 顺序理解设计动机 → 基本抽象 → 架构与性能 → 容错与调度，并使用本地 Ray 实验验证部分机制。  
-> **阅读说明**：以下是我以学生视角整理的理解，不是课件逐字转录；我把**PPT 原意**、**帮助理解的示例**和**本地实验的观察**尽量区分开。尤其 P55–81 中的“原始设计”和研究论文中的机制，不能直接等同于现行 Ray 版本的所有实现细节。
+> **课程来源**：Ion Stoica, *Ray: A Universal Framework for Distributed Computing*, 2025-03-04，共 83 页。   
 
 ## 目录
 
